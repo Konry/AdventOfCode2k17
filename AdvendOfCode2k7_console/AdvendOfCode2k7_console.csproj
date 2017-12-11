@@ -35,6 +35,8 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -43,7 +45,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Day10.cs" />
+    <Compile Include="Day11.cs" />
+    <Compile Include="Day2.cs" />
+    <Compile Include="Day3.cs" />
+    <Compile Include="Day4.cs" />
+    <Compile Include="Day5.cs" />
+    <Compile Include="Day6.cs" />
+    <Compile Include="Day7.cs" />
+    <Compile Include="Day7_2.cs" />
+    <Compile Include="Day8.cs" />
+    <Compile Include="Day9.cs" />
+    <Compile Include="FileReader.cs" />
+    <Compile Include="DayOne.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Programm.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
